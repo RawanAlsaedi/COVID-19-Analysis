@@ -77,7 +77,7 @@ Here are some examples of visualizations that illustrate key findings from the C
 
 
 
-<img src="https://github.com/RawanAlsaedi/INE-Data-Science-Bootcamp/blob/main/COVID-19%20Analysis/img/Top%205%20countries%20with%20the%20highest%20death.png" alt="Top 5 Countries with the Highest Deaths" width="900" height="400">
+<img src="https://github.com/RawanAlsaedi/COVID-19-Analysis/blob/main/img/Top%205%20countries%20with%20the%20highest%20death.png" alt="Top 5 Countries with the Highest Deaths" width="900" height="400">
 
 ## US's Active Cases Over Time
 
