@@ -81,11 +81,11 @@ Here are some examples of visualizations that illustrate key findings from the C
 
 ## US's Active Cases Over Time
 
-![US's Active Cases Over Time](https://github.com/RawanAlsaedi/INE-Data-Science-Bootcamp/blob/main/COVID-19%20Analysis/img/US's%20Active%20Cases%20Over%20Time.png)
+<img src="https://github.com/RawanAlsaedi/COVID-19-Analysis/blob/main/img/US's%20Active%20Cases%20Over%20Time.png" alt="US's Active Cases Over Time" width="900" height="400">
 
 
 
 
 ## COVID-19 Cases Overview in the US
 
-![COVID-19 Cases Overview in the US](https://github.com/RawanAlsaedi/INE-Data-Science-Bootcamp/blob/main/COVID-19%20Analysis/img/COVID-19%20Cases%20Overview%20in%20the%20US.png)
+<img src="https://github.com/RawanAlsaedi/COVID-19-Analysis/blob/main/img/COVID-19%20Cases%20Overview%20in%20the%20US.png" alt="COVID-19 Cases Overview in the US" width="900" height="400">
