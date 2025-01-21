@@ -59,7 +59,7 @@ df = pd.read_csv('covid_19_clean_complete.csv')
  
 ## Results:
 
-Here are some examples of visualizations that illustrate key findings from the COVID-19 analysis.
+Below are visualizations that highlight key findings from the COVID-19 analysis.
 
 
 ## Total Confirmed Cases Over Time
