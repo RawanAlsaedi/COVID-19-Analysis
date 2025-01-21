@@ -64,8 +64,7 @@ Here are some examples of visualizations that illustrate key findings from the C
 
 ## Total Confirmed Cases Over Time
 
-![Worldwide Confirmed Cases Over Time](https://github.com/RawanAlsaedi/INE-Data-Science-Bootcamp/blob/main/COVID-19%20Analysis/img/Worldwide%20Confirmed%20Cases%20Over%20Time.png)
-
+<img src="https://github.com/RawanAlsaedi/COVID-19-Analysis/blob/main/img/Worldwide%20Confirmed%20Cases%20Over%20Time.png" alt="Worldwide Confirmed Cases Over Time" width="900" height="400">
 
 
 
