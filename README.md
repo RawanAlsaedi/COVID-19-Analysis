@@ -1,9 +1,5 @@
 # COVID-19-Analysis
 
-# COVID-19 Analysis
-
-<img src="img/covid.jpg" alt="COVID-19" width="800" height="400"/>
-
 
 
 ## Project Overview
@@ -31,7 +27,7 @@ To run this project, make sure you have the following packages installed:
 pip install numpy pandas matplotlib seaborn
 ```
 
-## Usage
+## Steps
 1. Import the necessary packages:
 
 ```
