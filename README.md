@@ -72,13 +72,13 @@ Here are some examples of visualizations that illustrate key findings from the C
 
 ## Top 10 countries with higher cases
 
-<img src="https://github.com/RawanAlsaedi/INE-Data-Science-Bootcamp/blob/main/COVID-19%20Analysis/img/Top%2010%20countries%20having%20most%20confirmed%20cases.png" alt="Top 10 Countries with Most Confirmed Cases" width="600" height="400">
+<img src="https://github.com/RawanAlsaedi/INE-Data-Science-Bootcamp/blob/main/COVID-19%20Analysis/img/Top%2010%20countries%20having%20most%20confirmed%20cases.png" alt="Top 10 Countries with Most Confirmed Cases" width="900" height="400">
 
 ##  Top 5 countries with the highest death
 
 
 
-<img src="https://github.com/RawanAlsaedi/INE-Data-Science-Bootcamp/blob/main/COVID-19%20Analysis/img/Top%205%20countries%20with%20the%20highest%20death.png" alt="Top 5 Countries with the Highest Deaths" width="600" height="400">
+<img src="https://github.com/RawanAlsaedi/INE-Data-Science-Bootcamp/blob/main/COVID-19%20Analysis/img/Top%205%20countries%20with%20the%20highest%20death.png" alt="Top 5 Countries with the Highest Deaths" width="900" height="400">
 
 
 
